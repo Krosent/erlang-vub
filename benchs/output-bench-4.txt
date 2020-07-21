@@ -1,0 +1,300 @@
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 187.817 ms
+--- Users Authorization --- 
+Wall clock time = 3.186 ms
+--- Send Messages To Users --- 
+Wall clock time = 128.945 ms
+--- Receive History --- 
+Wall clock time = 0.06 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 181.83 ms
+--- Users Authorization --- 
+Wall clock time = 4.464 ms
+--- Send Messages To Users --- 
+Wall clock time = 140.148 ms
+--- Receive History --- 
+Wall clock time = 0.069 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 182.126 ms
+--- Users Authorization --- 
+Wall clock time = 2.645 ms
+--- Send Messages To Users --- 
+Wall clock time = 134.268 ms
+--- Receive History --- 
+Wall clock time = 0.079 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 184.919 ms
+--- Users Authorization --- 
+Wall clock time = 2.656 ms
+--- Send Messages To Users --- 
+Wall clock time = 142.118 ms
+--- Receive History --- 
+Wall clock time = 0.177 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 183.829 ms
+--- Users Authorization --- 
+Wall clock time = 3.498 ms
+--- Send Messages To Users --- 
+Wall clock time = 140.847 ms
+--- Receive History --- 
+Wall clock time = 0.086 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 185.493 ms
+--- Users Authorization --- 
+Wall clock time = 2.58 ms
+--- Send Messages To Users --- 
+Wall clock time = 135.873 ms
+--- Receive History --- 
+Wall clock time = 0.091 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 183.832 ms
+--- Users Authorization --- 
+Wall clock time = 3.279 ms
+--- Send Messages To Users --- 
+Wall clock time = 131.444 ms
+--- Receive History --- 
+Wall clock time = 0.109 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 202.54 ms
+--- Users Authorization --- 
+Wall clock time = 3.224 ms
+--- Send Messages To Users --- 
+Wall clock time = 142.41 ms
+--- Receive History --- 
+Wall clock time = 0.071 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 182.568 ms
+--- Users Authorization --- 
+Wall clock time = 3.182 ms
+--- Send Messages To Users --- 
+Wall clock time = 130.423 ms
+--- Receive History --- 
+Wall clock time = 0.084 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 181.529 ms
+--- Users Authorization --- 
+Wall clock time = 2.552 ms
+--- Send Messages To Users --- 
+Wall clock time = 128.698 ms
+--- Receive History --- 
+Wall clock time = 0.071 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 182.911 ms
+--- Users Authorization --- 
+Wall clock time = 2.383 ms
+--- Send Messages To Users --- 
+Wall clock time = 136.519 ms
+--- Receive History --- 
+Wall clock time = 0.084 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 183.68 ms
+--- Users Authorization --- 
+Wall clock time = 3.035 ms
+--- Send Messages To Users --- 
+Wall clock time = 140.732 ms
+--- Receive History --- 
+Wall clock time = 0.094 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 185.024 ms
+--- Users Authorization --- 
+Wall clock time = 3.399 ms
+--- Send Messages To Users --- 
+Wall clock time = 137.555 ms
+--- Receive History --- 
+Wall clock time = 0.075 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 182.378 ms
+--- Users Authorization --- 
+Wall clock time = 4.111 ms
+--- Send Messages To Users --- 
+Wall clock time = 135.208 ms
+--- Receive History --- 
+Wall clock time = 0.081 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 179.415 ms
+--- Users Authorization --- 
+Wall clock time = 3.388 ms
+--- Send Messages To Users --- 
+Wall clock time = 132.937 ms
+--- Receive History --- 
+Wall clock time = 0.104 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 182.773 ms
+--- Users Authorization --- 
+Wall clock time = 3.359 ms
+--- Send Messages To Users --- 
+Wall clock time = 139.475 ms
+--- Receive History --- 
+Wall clock time = 0.063 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 182.768 ms
+--- Users Authorization --- 
+Wall clock time = 2.364 ms
+--- Send Messages To Users --- 
+Wall clock time = 136.567 ms
+--- Receive History --- 
+Wall clock time = 0.097 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 183.747 ms
+--- Users Authorization --- 
+Wall clock time = 3.088 ms
+--- Send Messages To Users --- 
+Wall clock time = 133.609 ms
+--- Receive History --- 
+Wall clock time = 0.066 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 187.499 ms
+--- Users Authorization --- 
+Wall clock time = 2.453 ms
+--- Send Messages To Users --- 
+Wall clock time = 123.602 ms
+--- Receive History --- 
+Wall clock time = 0.067 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 192.631 ms
+--- Users Authorization --- 
+Wall clock time = 2.939 ms
+--- Send Messages To Users --- 
+Wall clock time = 136.347 ms
+--- Receive History --- 
+Wall clock time = 0.067 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 184.401 ms
+--- Users Authorization --- 
+Wall clock time = 2.631 ms
+--- Send Messages To Users --- 
+Wall clock time = 138.759 ms
+--- Receive History --- 
+Wall clock time = 0.088 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 188.275 ms
+--- Users Authorization --- 
+Wall clock time = 3.195 ms
+--- Send Messages To Users --- 
+Wall clock time = 135.667 ms
+--- Receive History --- 
+Wall clock time = 0.061 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 186.103 ms
+--- Users Authorization --- 
+Wall clock time = 2.939 ms
+--- Send Messages To Users --- 
+Wall clock time = 139.763 ms
+--- Receive History --- 
+Wall clock time = 0.104 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 180.823 ms
+--- Users Authorization --- 
+Wall clock time = 2.537 ms
+--- Send Messages To Users --- 
+Wall clock time = 155.4 ms
+--- Receive History --- 
+Wall clock time = 0.12 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 183.413 ms
+--- Users Authorization --- 
+Wall clock time = 2.609 ms
+--- Send Messages To Users --- 
+Wall clock time = 131.374 ms
+--- Receive History --- 
+Wall clock time = 0.101 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 183.15 ms
+--- Users Authorization --- 
+Wall clock time = 2.444 ms
+--- Send Messages To Users --- 
+Wall clock time = 134.575 ms
+--- Receive History --- 
+Wall clock time = 0.066 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 179.862 ms
+--- Users Authorization --- 
+Wall clock time = 2.61 ms
+--- Send Messages To Users --- 
+Wall clock time = 131.154 ms
+--- Receive History --- 
+Wall clock time = 0.075 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 185.237 ms
+--- Users Authorization --- 
+Wall clock time = 2.226 ms
+--- Send Messages To Users --- 
+Wall clock time = 132.268 ms
+--- Receive History --- 
+Wall clock time = 0.099 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 181.957 ms
+--- Users Authorization --- 
+Wall clock time = 2.813 ms
+--- Send Messages To Users --- 
+Wall clock time = 125.943 ms
+--- Receive History --- 
+Wall clock time = 0.061 ms
+--- End of Benchmarking --- 
+--- Start Benchmarking --- 
+--- Register users --- 
+Wall clock time = 182.722 ms
+--- Users Authorization --- 
+Wall clock time = 2.829 ms
+--- Send Messages To Users --- 
+Wall clock time = 143.326 ms
+--- Receive History --- 
+Wall clock time = 0.067 ms
+--- End of Benchmarking --- 
